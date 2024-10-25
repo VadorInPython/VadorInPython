@@ -12,12 +12,12 @@ Beyond tech, I’m also an avid **sports enthusiast**, and I believe in living l
 
 Over the course of my studies, work experience, and personal projects, I've gained proficiency in a variety of tools, including:
 
-- ![Python Logo](https://www.python.org/community/logos/python-logo.png) **Python**
+- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
 - ![R Logo](https://www.r-project.org/logo/Rlogo.png) **R**
-- ![Power BI Logo](https://powerbi.microsoft.com/pictures/homepage/Power_BI_Logo_Icon.svg) **Power BI**
-- ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/0/00/SQL_Logo.svg) **SQL**
-- ![Microsoft Office Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Office_Logo.svg) **Microsoft Office Suite**
-- ![CRM Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/CRM_Logo.png) **CRM Systems**
+- ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Power_BI_Logo.svg) **Power BI**
+- ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg) **SQL**
+- ![Microsoft Office Logo](https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Office_Logo.svg) **Microsoft Office Suite**
+- ![CRM Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/CRM_Logo.png) **CRM Systems**
 
 
 <!--
