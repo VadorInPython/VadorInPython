@@ -12,7 +12,7 @@ Beyond tech, I’m also an avid **sports enthusiast**, and I believe in living l
 
 Over the course of my studies, work experience, and personal projects, I've gained proficiency in a variety of tools, including:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50"> **Python**
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NrdHR2aXVodTNqNDA1MnB6NWRoazlsdGxneDhvdThmM3ZyeGhudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.webp" alt="Python Logo" width="50" height="50"> **Python**
 - <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50" height="50"> **R**
 - <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI Logo" width="50" height="50"> **Power BI**
 - <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="SQL Logo" width="50" height="50"> **SQL**
