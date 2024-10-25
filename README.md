@@ -12,11 +12,11 @@ Beyond tech, I’m also an avid **sports enthusiast**, and I believe in living l
 
 Over the course of my studies, work experience, and personal projects, I've gained proficiency in a variety of tools, including:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" height="30"> **Python**
-- <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="30" height="30"> **R**
-- <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI Logo" width="30" height="30"> **Power BI**
-- <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="SQL Logo" width="30" height="30"> **SQL**
-- <img src="https://i.pinimg.com/originals/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50"> **Python**
+- <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50" height="50"> **R**
+- <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI Logo" width="50" height="50"> **Power BI**
+- <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="SQL Logo" width="50" height="50"> **SQL**
+- <img src="https://i.pinimg.com/originals/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg" alt="Microsoft Office Logo" width="50" height="50"> **Microsoft Office Suite**
 
 
 <!--
