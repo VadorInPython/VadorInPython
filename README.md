@@ -14,9 +14,9 @@ Over the course of my studies, work experience, and personal projects, I've gain
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" height="30"> **Python**
 - <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="30" height="30"> **R**
-- <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI Logo" width="30" height="30"> **Power BI**
-- <img src="https://en.wikipedia.org/wiki/Oracle_SQL_Developer#/media/File:Oracle_SQL_Developer_logo.svg" alt="SQL Logo" width="30" height="30"> **SQL**
-- <img src="https://en.wikipedia.org/wiki/Microsoft_Office#/media/File:Microsoft_Office_Logo_(2019-present).svg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
+- <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="Power BI Logo" width="30" height="30"> **Power BI**
+- <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="SQL Logo" width="30" height="30"> **SQL**
+- <img src="https://i.pinimg.com/originals/93/6d/6a/936d6adc03927c1e2b386060e222c918.jpg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
 
 
 <!--
