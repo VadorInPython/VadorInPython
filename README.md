@@ -14,11 +14,9 @@ Over the course of my studies, work experience, and personal projects, I've gain
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" height="30"> **Python**
 - <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="30" height="30"> **R**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Power_BI_Logo.svg" alt="Power BI Logo" width="30" height="30"> **Power BI**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg" alt="SQL Logo" width="30" height="30"> **SQL**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Office_Logo.svg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/CRM_Logo.png" alt="CRM Logo" width="30" height="30"> **CRM Systems**
-
+- <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI Logo" width="30" height="30"> **Power BI**
+- <img src="https://en.wikipedia.org/wiki/Oracle_SQL_Developer#/media/File:Oracle_SQL_Developer_logo.svg" alt="SQL Logo" width="30" height="30"> **SQL**
+- <img src="https://en.wikipedia.org/wiki/Microsoft_Office#/media/File:Microsoft_Office_Logo_(2019-present).svg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
 
 
 <!--
