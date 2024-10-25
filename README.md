@@ -12,12 +12,13 @@ Beyond tech, I’m also an avid **sports enthusiast**, and I believe in living l
 
 Over the course of my studies, work experience, and personal projects, I've gained proficiency in a variety of tools, including:
 
-- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![R Logo](https://www.r-project.org/logo/Rlogo.png) **R**
-- ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Power_BI_Logo.svg) **Power BI**
-- ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg) **SQL**
-- ![Microsoft Office Logo](https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Office_Logo.svg) **Microsoft Office Suite**
-- ![CRM Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/CRM_Logo.png) **CRM Systems**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30" height="30"> **Python**
+- <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="30" height="30"> **R**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Power_BI_Logo.svg" alt="Power BI Logo" width="30" height="30"> **Power BI**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg" alt="SQL Logo" width="30" height="30"> **SQL**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Office_Logo.svg" alt="Microsoft Office Logo" width="30" height="30"> **Microsoft Office Suite**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/CRM_Logo.png" alt="CRM Logo" width="30" height="30"> **CRM Systems**
+
 
 
 <!--
